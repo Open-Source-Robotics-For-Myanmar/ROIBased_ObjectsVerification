@@ -1,0 +1,5 @@
+ROIBased_ObjectsTracker/prototype_python/__pycache__
+!.venv/requirements.txt
+.venv/*
+
+ROIBased_ObjectsTracker/prototype_python/testing_videos
